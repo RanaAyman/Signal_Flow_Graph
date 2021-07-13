@@ -6,3 +6,6 @@ Mason’s rule for reducing a signal-flow graph to a single transfer function re
 the application of one formula. The formula was derived by S. J. Mason when he
 related the signal-flow graph to the simultaneous equations that can be written
 from the graph
+
+![ex](image1.PNG)
+![ex](image2.PNG)

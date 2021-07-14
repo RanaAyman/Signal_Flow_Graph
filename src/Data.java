@@ -11,5 +11,6 @@ public class Data {
 	public static Double[] nonTouchingloopsGain;
 	public static Double[] deltas;
 	public static double overAllTF;
+	//
 
 }

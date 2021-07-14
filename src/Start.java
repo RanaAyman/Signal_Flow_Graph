@@ -20,7 +20,7 @@ public class Start extends JFrame {
 
 	private JPanel contentPane;
 	private JTextField numNodesTF;
-//
+
 	/**
 	 * Launch the application.
 	 */

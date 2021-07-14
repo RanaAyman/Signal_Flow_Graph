@@ -1,6 +1,6 @@
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
+//
 public class CheckInput {
 	public static boolean ValidInt(String str) {
 		String regex = "[+-]?[0-9]+";

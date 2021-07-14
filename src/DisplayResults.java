@@ -6,7 +6,7 @@ import java.awt.Toolkit;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JTextPane;
-//
+
 public class DisplayResults extends JFrame {
 
 	private static final long serialVersionUID = 1L;

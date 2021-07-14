@@ -7,7 +7,7 @@ import java.awt.Toolkit;
 import java.awt.geom.Path2D;
 
 import javax.swing.JPanel;
-
+//
 public class Drawer extends JPanel {
 
 	/**
